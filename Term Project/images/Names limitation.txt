@@ -1,0 +1,5 @@
+if there exists some file 'B.png', windows won't let me rename another file 'b.png' because it's considered the same name
+
+Black pieces are named in capital to represent the piece they are but have a 'b' in front to show they are black
+
+white pieces have a 'w' followed by the first letter of the piece they are ('wK.png' represents the white king)

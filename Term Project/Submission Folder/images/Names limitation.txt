@@ -1,0 +1,8 @@
+if there exists some file 'B.png', windows won't let me rename another file 'b.png' because it's considered the same name
+b.png = White Bishop (not capitalized to show they are a white piece)
+B.png = Black Bishop (Capialized to show they are a black piece)
+but can't because windows considers them to be the same name (2 seperate files with the same name, which is not allowed)
+
+Black pieces are named in capital to represent the piece they are but have a 'b' in front to show they are black
+
+white pieces have a 'w' followed by the first letter of the piece they are ('wK.png' represents the white king)
